@@ -19,7 +19,7 @@ A continuación se detalla las versiones empleadas en el desarrollo del ejercici
 - Ambos métodos están documentados:
   - requiredSumAlgoritmoUno: tipo de parámetro, tipo de retorno
   - requiredSumAlgoritmoDos: tipo de parámetro, tipo de retorno
-  - Como docuemntar en comentarios métodos [Javadoc Oracle](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#format/).
+  - Como documentar en comentarios métodos [Javadoc Oracle](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#format/).
 
 **Descrición de la tarea realizada:**
 
