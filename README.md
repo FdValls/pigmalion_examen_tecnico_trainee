@@ -1,8 +1,5 @@
 # Exámen Técnico Trainee
 
-Lenguaje que utilizó en la construcción del ejercicio, versiones
-de herramientas empleadas, etc.
-
 A continuación se detalla las versiones empleadas en el desarrollo del ejercicio:
 
 **Lenguaje utilizado:**
