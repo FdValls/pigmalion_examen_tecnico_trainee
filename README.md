@@ -14,6 +14,13 @@ A continuación se detalla las versiones empleadas en el desarrollo del ejercici
 
 - # Visual Studio Code V 1.93.0
 
+**Documentación en los métodos implementados:**
+
+- Ambos métodos están documentados:
+  - requiredSumAlgoritmoUno: tipo de parámetro, tipo de retorno
+  - requiredSumAlgoritmoDos: tipo de parámetro, tipo de retorno
+  - Como docuemntar en comentarios métodos [Javadoc Oracle](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html#format/).
+
 **Descrición de la tarea realizada:**
 
 La clase "Función" tiene dos métodos staticos que corresponden a cada algoritmo que se solicito:
