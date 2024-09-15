@@ -6,7 +6,7 @@ public class TestAlgoritmoDos {
 
     /*
      * Resultado esperado "false" ya que no hay valores que sumados
-     * que den el resultado
+     * den el valor de resultado
      */
     @Test
     public void EjemploUno() {
@@ -18,7 +18,7 @@ public class TestAlgoritmoDos {
 
     /*
      * Resultado esperado "true" ya que hay valores que sumados
-     * que den el resultado
+     * den el valor de resultado
      */
     @Test
     public void EjemploDos() {
